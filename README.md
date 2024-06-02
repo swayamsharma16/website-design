@@ -5,7 +5,7 @@ The goal of this project was to create a responsive landing page for a mobile ap
 
 ## Design Reference
 - **Figma Link:** [Figma Link](https://www.figma.com/community/file/1145991068621514311)
-
+- 
 ### Styling
 - Styled with Tailwind CSS.
 - Google Fonts for typography.
