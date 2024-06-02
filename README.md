@@ -1,7 +1,7 @@
 # Mobile App Landing Page
 
 ## Objective
-The goal of this project was to create a responsive landing page for a mobile application. The page is built using React and vite visually appealing, user-friendly, and optimized for both desktop and mobile devices.
+The goal of this project was to create a responsive landing page for a mobile application. The page is built using React and vite. 
 
 ## Design Reference
 - **Figma Link:** [Figma Link](https://www.figma.com/community/file/1145991068621514311)
