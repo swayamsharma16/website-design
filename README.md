@@ -5,7 +5,7 @@ The goal of this project was to create a responsive landing page for a mobile ap
 
 ## Design Reference
 - **Figma Link:** [Figma Link](https://www.figma.com/community/file/1145991068621514311)
-- **Figma Dev Mode Link:** [Figma Dev Mode Link](https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?m=dev&node-id=0-1&t=uyErxTIHgm8nS2dC-1)
+
 
 
 
