@@ -15,8 +15,6 @@ The goal of this project was to create a responsive landing page for a mobile ap
 - Dark mode toggle.
 - Hover effects on interactive elements.
 
-
-
 ## Running the Project Locally
 To run the project locally:
 
