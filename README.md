@@ -14,9 +14,9 @@ The goal of this project was to create a responsive landing page for a mobile ap
 - Google Fonts for typography.
 
 ###  Features
+- Responsive Design
 - Dark mode toggle.
 - Hover effects on interactive elements.
-- Responsive Design
 
 
 
